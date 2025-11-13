@@ -1,4 +1,4 @@
-# Google Maps Businesses Scraper
+# Maps Scrapper
 Built with Python running Selenium, this app allows you to scrape places info from the google maps search results
 
 ## CLI Arguments
